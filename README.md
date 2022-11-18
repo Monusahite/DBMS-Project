@@ -46,6 +46,24 @@ Searching nearby (Issue in Cities, price problem).
 Have to check design.
 Remembering booking items.
 
+## How to Solve these Problems:
+
+### Retailers(Renders):
+Just entering data in App can solve all problems. Through WhatsApp we can send to both Renders and Customers.
+Anywhere can Check in mobile. 
+Calculation and Management issue solved
+Directly can order to manufacturer.
+
+### Manufacturer:
+Show their new items to retailers on App and no need to broadcast all Retailers
+Management issues solved at peak days. 
+
+### Customers:
+Searching nearby (Issue in Cities, price problem) can easily solved.
+Can check near by different Retailers.
+Get their booking conformation through WhatsApp.
+
+
 
 ## Suggestion and Feedback
 
