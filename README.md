@@ -25,6 +25,9 @@ The main motive for going through this project is to help offline business owner
 - Shop details updation feature.
 - Details of Booking send through mail to both customer and Organizer. 
 - Showing all booking to orgainzer.
+- customer can give review to shop 
+
+
 
 ## Market Size (Target Customer)
 Total Village in India is More than 664,369 with average population 1200+. We are targeting Tent-House/Catering/Dj-Sound...etc owners. On an approx total market size from village is 9.5 lakhs if we are assuming 1.5 owners per village and( our personal experience). 
