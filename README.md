@@ -69,8 +69,7 @@ Get their booking conformation through WhatsApp.
 
 ## Suggestion and Feedback
 
-If you have any suggestions or feedback you can reach out to me at abhiclass01@gmail.com
-
+If you have any suggestions or feedback you can reach out to me at monusahite7@gmail.com & rsrajput735416@gmail.com
 
 ## Website images
 ![image](https://user-images.githubusercontent.com/85430434/202630870-62ed508d-134c-47e2-a9dd-4489a95565ed.png)
@@ -83,11 +82,11 @@ If you have any suggestions or feedback you can reach out to me at abhiclass01@g
 
 ![image](https://user-images.githubusercontent.com/85430434/202632215-2119b6dd-1c6d-4bc3-ab43-7a1f884c52c8.png)
 
+![image](https://user-images.githubusercontent.com/85430434/202635204-c6349ff4-b671-432f-af7f-d2523dfae016.png)
+
 ![image](https://user-images.githubusercontent.com/85430434/202633661-e20bbdf5-049d-494f-aaca-9c7ffc8caa81.png)
 
 ![image](https://user-images.githubusercontent.com/85430434/202634548-22ea5cec-d3dd-486d-902e-404f4cc3d080.png)
-
-![image](https://user-images.githubusercontent.com/85430434/202635204-c6349ff4-b671-432f-af7f-d2523dfae016.png)
 
 ![image](https://user-images.githubusercontent.com/85430434/202633814-c4e7b0f3-17f7-4866-a4d1-a1a36163836b.png)
 
